@@ -13,4 +13,5 @@ QuickNotes is a lightweight, responsive single-page web application designed for
 ## How to Run Locally
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/quicknotes-app.git](https://github.com/your-username/quicknotes-app.git)
+   git clone https://github.com/collinskiplangatrotich/quicknotes-app.git
+

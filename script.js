@@ -159,3 +159,4 @@ clearAllBtn.addEventListener("click", () => {
 
 // Initial Page Load Initialization
 render();
+
